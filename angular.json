@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aliFileUpload"
+    }
+  },
+  "defaultProject": "aliFileUpload",
+  "cli": {
+    "analytics": "449609bf-52e8-4919-a260-2372fadfc8cd"
+  }
 }
